@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Dave</h1>
 <h3 align="center">👀 I’m interested in software development and excited to learn new technologies.</h3>
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **Flutter App Development**
 
 - 💬 Ask me about **Python and Java**
 -  Ask me anything on this email : dparth0289@gmail.com
